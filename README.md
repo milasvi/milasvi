@@ -21,6 +21,15 @@ Here are some ideas to get you started:
 </div>
 
   ##
+
+  <div>
+
+-🌱 I’m currently learning!   </br>
+-😄 Pronouns: ela/dela   </br>
+-⚡ Fun fact: também desenho!   </br>
+  </div>
+  
+  ##
   
 <div>
 <img align="center" height="56em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" />
