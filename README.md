@@ -23,17 +23,16 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milasvi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-  ##
 
-
-
- 
   
   ##
   
 <div>
 <img align="center" height="56em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" />
 <img align="center" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
+<img align = "center" height= "60em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+          
+          
 
   <img align="right" alt="Mil-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/862446385922965514/973592808197849198/Design_sem_nome.gif?width=551&height=551">
 </div>
