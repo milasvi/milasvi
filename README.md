@@ -1,4 +1,4 @@
-### Olá mundo! 👋🌎
+### Olá, mundo! 👋🌎:octocat:
 
 <!--
 **milasvi/milasvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -🌱 I’m currently learning!   </br>
 -😄 Pronouns: ela/dela   </br>
 -⚡ Fun fact: também desenho!   </br>
+
 
 <div align="center">
   <a href="https://github.com/milasvi">
