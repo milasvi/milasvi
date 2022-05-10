@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+-🌱 I’m currently learning!   </br>
+-😄 Pronouns: ela/dela   </br>
+-⚡ Fun fact: também desenho!   </br>
 
 <div align="center">
   <a href="https://github.com/milasvi">
@@ -22,12 +25,9 @@ Here are some ideas to get you started:
 
   ##
 
-  <div>
 
--🌱 I’m currently learning!   </br>
--😄 Pronouns: ela/dela   </br>
--⚡ Fun fact: também desenho!   </br>
-  </div>
+
+ 
   
   ##
   
