@@ -29,12 +29,26 @@ Here are some ideas to get you started:
   ##
   
 <div>
-*Aprendendo*
-<img align="center" height="56em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" />
+
+  <h3>🌱 *Aprendendo* </h3>
 <img align="center" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
 <img align = "center" height= "60em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img align ="center" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+
+
+  
+  ##
+  
+  <h3>🪛 *Ferramentas* </h3>
+<img align="center" height="95em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
+<img align="center" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg"/>
+<img align ="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
           
           
+          
+          
+    
+<div>          
 
   <img align="right" alt="Mil-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/862446385922965514/973592808197849198/Design_sem_nome.gif?width=551&height=551">
 </div>
