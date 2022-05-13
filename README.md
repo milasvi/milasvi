@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   ##
   
 <div>
+*Aprendendo*
 <img align="center" height="56em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" />
 <img align="center" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
 <img align = "center" height= "60em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
