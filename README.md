@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
--🌱 Sou estudante de Biologia!   </br>
+-🌱 Sou estudante de Biologia e faço Iniciação Científica no LaGEvol!   </br>
 -😄 Pronouns: ela/dela/delu  </br>
 -⚡ Fun fact: também desenho!   </br>
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   
   <h3> 📭 *Contato* </h3>
   <a target="_blank" href = "mailto:milenasrr@estudante.ufscar.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
-  <a target="_blank" href="https://www.linkedin.com/in/milena-s-a62078201" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a target="_blank" href="www.linkedin.com/in/milena-r-a62078201" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   
 <div>
