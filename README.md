@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
--🌱 I’m currently learning!   </br>
--😄 Pronouns: ela/dela   </br>
+-🌱 Sou estudante de Biologia!   </br>
+-😄 Pronouns: ela/dela/delu  </br>
 -⚡ Fun fact: também desenho!   </br>
 
 
