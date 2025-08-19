@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 -🌱 Sou estudante de Biologia e faço Iniciação Científica no LaGEvol!   </br>
--😄 Pronouns: ela/dela/delu  </br>
+-😄 Pronouns: ela/ele/elu  </br>
 -⚡ Fun fact: também desenho!   </br>
 
 
